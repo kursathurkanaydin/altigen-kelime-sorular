@@ -1,5 +1,5 @@
-version=1793450280
-file=paket-1793450280.bin
-size=388641
-sha256=dcad69c9ebc5ee2a34c7e6085eff24dd383c9933f68f5b2ab40e972311dc9afc
-sig=MEUCIQCZd+H+qywghNihwCmjeUNRbOuTken+Qcw/muEWJQGG6AIgUxZENqBvsvFBwFQLid2ofhvN5Uc/iUqbFnRoeTAM1Vg=
+version=1793565974
+file=paket-1793565974.bin
+size=489349
+sha256=d7981f5f7f19baf96d066849506306e099b63cd5da1958b597db649bccce567e
+sig=MEUCIBjlcVsEqUFCPoVkAzs0w4zUt9dUankXHijLQleqNkG3AiEA0dWKwoIJh1ie7lPlLl7ygRDNJHxgmHEFa4QDcVpYzJA=
